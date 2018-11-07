@@ -1,0 +1,17 @@
+[
+	{
+		"dn": "cn=ldapadm,dc=solace,dc=com",
+		"group": "cn=admin,ou=groups,dc=solace,dc=com",
+		"password": "asdf"
+	},
+	{
+		"dn": "cn=alice,dc=solace,dc=com",
+		"group": "cn=publishers,ou=groups,dc=solace,dc=com",
+		"password": "alice"
+	},
+	{
+		"dn": "cn=bob,dc=solace,dc=com",
+		"group": "cn=subscribers,ou=groups,dc=solace,dc=com",
+		"password": "bob"
+	}
+]
